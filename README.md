@@ -17,7 +17,7 @@ A Python program that lets users:
 ---
 
 ## 📸 Screenshot
-<img width="449" height="493" alt="{17E14143-CC75-4D6E-BE24-D840631467AD}" src="https://github.com/user-attachments/assets/3a59ed03-baa7-46a9-aa80-73cd6ffd79af" />
+<img width="596" height="442" alt="{9CB79A64-D56B-49CC-86DF-07EDB6E23031}" src="https://github.com/user-attachments/assets/8c6a81b0-8ff1-473e-a8a2-c081a4ee3a34" />
 <img width="603" height="728" alt="{713BD662-EC10-402E-BDFE-B66322F433FA}" src="https://github.com/user-attachments/assets/a153817a-01e0-4596-aec2-96702db73b7a" />
 
 
