@@ -26,4 +26,5 @@ A Python program that lets users:
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Password-Generator.git
+   git clone https://github.com/AskinsArt/Password-Generator-2.git
+   cd Password-Generator-2
