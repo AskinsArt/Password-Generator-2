@@ -17,7 +17,9 @@ A Python program that lets users:
 ---
 
 ## 📸 Screenshot
-(Add a screenshot of your console running the app here — press `PrtScn` or Snip Tool, save as PNG, and upload.)
+<img width="449" height="493" alt="{17E14143-CC75-4D6E-BE24-D840631467AD}" src="https://github.com/user-attachments/assets/3a59ed03-baa7-46a9-aa80-73cd6ffd79af" />
+<img width="603" height="728" alt="{713BD662-EC10-402E-BDFE-B66322F433FA}" src="https://github.com/user-attachments/assets/a153817a-01e0-4596-aec2-96702db73b7a" />
+
 
 ---
 
